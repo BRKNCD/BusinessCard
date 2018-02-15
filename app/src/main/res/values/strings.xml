@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="brokencode">BROKEN CODE //</string>
+    <string name="generativeDesign">Generative Design</string>
+    <string name="algorithmicArt">Algorithmic Art</string>
+    <string name="facebook">facebook.com/BROKNCODE/</string>
+    <string name="mail">gianlupds@gmail.com</string>
+    <string name="city">Milan - Italy</string>
+</resources>
